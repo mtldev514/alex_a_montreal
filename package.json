@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build": "retro-portfolio build",
-    "postbuild": "cp config-source.json dist/",
+    "postbuild": "cp config-source.json dist/ && cp CNAME dist/ 2>/dev/null || true",
     "dev": "retro-portfolio dev",
     "admin": "retro-portfolio admin",
     "sync": "retro-portfolio sync",
