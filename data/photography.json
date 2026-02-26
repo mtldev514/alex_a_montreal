@@ -37,7 +37,8 @@
       "https://res.cloudinary.com/dug75wesj/image/upload/v1770791771/portfolio/painting/dozddh4desp8kavkicui.jpg",
       "https://res.cloudinary.com/dug75wesj/image/upload/v1770791772/portfolio/painting/hn5uf842a1yrqdreo2tp.jpg",
       "https://res.cloudinary.com/dug75wesj/image/upload/v1770791773/portfolio/painting/iwj2wrd9r44mvmgp7pvt.jpg",
-      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791759/portfolio/painting/dzwqouypcq7x0gyunfeo.jpg"
+      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791759/portfolio/painting/dzwqouypcq7x0gyunfeo.jpg",
+      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791794/portfolio/painting/lotqzyoqgqzkekxx77bh.jpg"
     ],
     "date": "2026-02-11",
     "created": "2026-02-11",
@@ -186,24 +187,6 @@
       "fr": "",
       "mx": "",
       "ht": ""
-    }
-  },
-  {
-    "id": "photography_extracted_1770813140",
-    "title": {
-      "en": "Detail (bottom of the grid)",
-      "fr": "Photo 1 from Photos 21-30",
-      "ht": "Photo 1 from Photos 21-30",
-      "mx": "Photo 1 from Photos 21-30"
-    },
-    "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1770791794/portfolio/painting/lotqzyoqgqzkekxx77bh.jpg",
-    "date": "2026-02-11",
-    "created": "2026-02-11",
-    "description": {
-      "en": "",
-      "fr": "",
-      "ht": "",
-      "mx": ""
     }
   },
   {
