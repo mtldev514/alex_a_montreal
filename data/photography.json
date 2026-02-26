@@ -10,7 +10,8 @@
     "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1770791759/portfolio/painting/x4zypraimen7mz67ripj.jpg",
     "gallery": [
       "https://res.cloudinary.com/dug75wesj/image/upload/v1770791761/portfolio/painting/adoc59vkxv6xpxpynkut.jpg",
-      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791779/portfolio/painting/xvtfjed65dlarmkpxinp.jpg"
+      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791779/portfolio/painting/xvtfjed65dlarmkpxinp.jpg",
+      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791792/portfolio/painting/mbcd04shmkckdxuqivx2.jpg"
     ],
     "date": "2026-02-11",
     "created": "2026-02-11",
@@ -211,24 +212,6 @@
       "mx": "Photo 4 from Détails"
     },
     "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1770791780/portfolio/painting/hkznzu7kdx4lvjkvceje.jpg",
-    "date": "2026-02-11",
-    "created": "2026-02-11",
-    "description": {
-      "en": "",
-      "fr": "",
-      "ht": "",
-      "mx": ""
-    }
-  },
-  {
-    "id": "photography_extracted_1770812800",
-    "title": {
-      "en": "Street view",
-      "fr": "Photo 4 from Détails",
-      "ht": "Photo 4 from Détails",
-      "mx": "Photo 4 from Détails"
-    },
-    "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1770791792/portfolio/painting/mbcd04shmkckdxuqivx2.jpg",
     "date": "2026-02-11",
     "created": "2026-02-11",
     "description": {
