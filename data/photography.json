@@ -11,7 +11,8 @@
     "gallery": [
       "https://res.cloudinary.com/dug75wesj/image/upload/v1770791761/portfolio/painting/adoc59vkxv6xpxpynkut.jpg",
       "https://res.cloudinary.com/dug75wesj/image/upload/v1770791779/portfolio/painting/xvtfjed65dlarmkpxinp.jpg",
-      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791792/portfolio/painting/mbcd04shmkckdxuqivx2.jpg"
+      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791792/portfolio/painting/mbcd04shmkckdxuqivx2.jpg",
+      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791792/portfolio/painting/bdmqwad99kyl5i0pxlo5.jpg"
     ],
     "date": "2026-02-11",
     "created": "2026-02-11",
@@ -167,24 +168,6 @@
       "https://res.cloudinary.com/dug75wesj/image/upload/v1770791808/portfolio/painting/im1z6j99wvforjsbdi31.jpg",
       "https://res.cloudinary.com/dug75wesj/image/upload/v1770791809/portfolio/painting/zzipuowzhcsedjaljivc.jpg"
     ]
-  },
-  {
-    "id": "photography_extracted_1770812794",
-    "title": {
-      "en": "Snowy Day 2",
-      "fr": "Photo 6 from Détails",
-      "ht": "Photo 6 from Détails",
-      "mx": "Photo 6 from Détails"
-    },
-    "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1770791792/portfolio/painting/bdmqwad99kyl5i0pxlo5.jpg",
-    "date": "2026-02-11",
-    "created": "2026-02-11",
-    "description": {
-      "en": "",
-      "fr": "",
-      "ht": "",
-      "mx": ""
-    }
   },
   {
     "id": "photography_extracted_1770812796",
