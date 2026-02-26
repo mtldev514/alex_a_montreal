@@ -14,6 +14,6 @@
     "validate": "retro-portfolio validate"
   },
   "dependencies": {
-    "@mtldev514/retro-portfolio-maker": "^1.0.0"
+    "@mtldev514/retro-portfolio-maker": "^1.0.24"
   }
 }
