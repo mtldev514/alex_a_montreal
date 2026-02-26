@@ -5,10 +5,12 @@
       "name": "Painting",
       "icon": "🎨",
       "mediaType": "image",
-      "dataFile": "data/painting.json",
       "description": "Traditional paintings using various media",
       "fields": {
-        "required": ["title", "url"],
+        "required": [
+          "title",
+          "url"
+        ],
         "optional": [
           {
             "name": "medium",
@@ -46,10 +48,12 @@
       "name": "Drawing",
       "icon": "✏️",
       "mediaType": "image",
-      "dataFile": "data/drawing.json",
       "description": "Hand-drawn artwork and sketches",
       "fields": {
-        "required": ["title", "url"],
+        "required": [
+          "title",
+          "url"
+        ],
         "optional": [
           {
             "name": "medium",
@@ -80,10 +84,12 @@
       "name": "Photography",
       "icon": "📷",
       "mediaType": "image",
-      "dataFile": "data/photography.json",
       "description": "Photographic works",
       "fields": {
-        "required": ["title", "url"],
+        "required": [
+          "title",
+          "url"
+        ],
         "optional": [
           {
             "name": "camera",
@@ -121,10 +127,11 @@
       "name": "Sculpting",
       "icon": "🗿",
       "mediaType": "image",
-      "dataFile": "data/sculpting.json",
       "description": "Three-dimensional sculptural works",
       "fields": {
-        "required": ["title"],
+        "required": [
+          "title"
+        ],
         "optional": [
           {
             "name": "material",
@@ -161,10 +168,12 @@
       "name": "Music",
       "icon": "🎵",
       "mediaType": "audio",
-      "dataFile": "data/music.json",
       "description": "Musical compositions and recordings",
       "fields": {
-        "required": ["title", "url"],
+        "required": [
+          "title",
+          "url"
+        ],
         "optional": [
           {
             "name": "genre",
@@ -196,10 +205,11 @@
       "name": "Projects",
       "icon": "💻",
       "mediaType": "link",
-      "dataFile": "data/projects.json",
       "description": "Web projects, code repositories, and digital work",
       "fields": {
-        "required": ["title"],
+        "required": [
+          "title"
+        ],
         "optional": [
           {
             "name": "techStack",

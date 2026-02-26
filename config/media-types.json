@@ -7,9 +7,17 @@
       "viewer": "ImageViewer",
       "supportsGallery": true,
       "supportsMetadata": true,
-      "acceptedFormats": [".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg"],
+      "acceptedFormats": [
+        ".jpg",
+        ".jpeg",
+        ".png",
+        ".gif",
+        ".webp",
+        ".svg"
+      ],
       "uploadDestination": "cloudinary",
-      "description": "Static images (photos, paintings, drawings, etc.)"
+      "description": "Static images (photos, paintings, drawings, etc.)",
+      "dataFile": "data/image.json"
     },
     {
       "id": "audio",
@@ -18,9 +26,17 @@
       "viewer": "AudioPlayer",
       "supportsGallery": false,
       "supportsMetadata": false,
-      "acceptedFormats": [".mp3", ".wav", ".ogg", ".flac", ".m4a", ".aac"],
+      "acceptedFormats": [
+        ".mp3",
+        ".wav",
+        ".ogg",
+        ".flac",
+        ".m4a",
+        ".aac"
+      ],
       "uploadDestination": "github",
-      "description": "Audio files (music, podcasts, sounds)"
+      "description": "Audio files (music, podcasts, sounds)",
+      "dataFile": "data/audio.json"
     },
     {
       "id": "video",
@@ -29,9 +45,14 @@
       "viewer": "VideoPlayer",
       "supportsGallery": false,
       "supportsMetadata": false,
-      "acceptedFormats": [".mp4", ".webm", ".mov"],
+      "acceptedFormats": [
+        ".mp4",
+        ".webm",
+        ".mov"
+      ],
       "uploadDestination": "cloudinary",
-      "description": "Video files (films, animations, recordings)"
+      "description": "Video files (films, animations, recordings)",
+      "dataFile": "data/video.json"
     },
     {
       "id": "text",
@@ -40,9 +61,14 @@
       "viewer": "TextRenderer",
       "supportsGallery": false,
       "supportsMetadata": false,
-      "acceptedFormats": [".md", ".txt", ".html"],
+      "acceptedFormats": [
+        ".md",
+        ".txt",
+        ".html"
+      ],
       "uploadDestination": "none",
-      "description": "Text content (blogs, poetry, articles)"
+      "description": "Text content (blogs, poetry, articles)",
+      "dataFile": "data/text.json"
     },
     {
       "id": "link",
@@ -53,7 +79,8 @@
       "supportsMetadata": false,
       "acceptedFormats": [],
       "uploadDestination": "none",
-      "description": "External links (projects, websites, portfolios)"
+      "description": "External links (projects, websites, portfolios)",
+      "dataFile": "data/link.json"
     }
   ]
 }

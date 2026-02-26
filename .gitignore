@@ -20,3 +20,6 @@ Thumbs.db
 # Temp
 temp_uploads/
 .cache/
+
+# Migration backups
+data/.backup-*/
