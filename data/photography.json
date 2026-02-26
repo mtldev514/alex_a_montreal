@@ -76,10 +76,10 @@
   {
     "id": "photography_pile_4_1770794231",
     "title": {
-      "en": "Photos 31-40",
+      "en": "Street Details",
       "fr": "Photos 31-40",
-      "mx": "Fotos 31-40",
-      "ht": "Foto 31-40"
+      "ht": "Foto 31-40",
+      "mx": "Fotos 31-40"
     },
     "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1770791806/portfolio/painting/sjyocw8taxizwunsaeqt.jpg",
     "gallery": [
@@ -90,7 +90,13 @@
       "https://res.cloudinary.com/dug75wesj/image/upload/v1770791814/portfolio/painting/vv1dklnmz3s68lfljifx.jpg"
     ],
     "date": "2026-02-11",
-    "created": "2026-02-11"
+    "created": "2026-02-11",
+    "description": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    }
   },
   {
     "id": "photography_pile_5_1770794231",
