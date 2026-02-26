@@ -1,18 +1,5 @@
 [
     {
-        "title": "catus-clock",
-        "description": {
-            "en": "Hand-coded analog clock. No canvas, just CSS transforms and a raw 100ms setInterval. Pre-AI Angular experimentation.",
-            "fr": "Horloge analogique en CSS. Animation par transforms CSS et setInterval de 100ms, sans Canvas. Expérimentation Angular sur la gestion du temps pour afficher l'heure avec une précision brute.",
-            "mx": "Reloj analógico codificado a mano. Sin canvas, solo transformaciones CSS y un setInterval crudo de 100ms. Experimentación Angular pre-IA.",
-            "ht": "Revèy ak zegwi mwen fè a la men. Mwen pa itilize canvas, jis CSS transform ak yon setInterval 100ms. Se te lè m t ap aprann Angular."
-        },
-        "url": "https://github.com/mtldev514/catus-clock",
-        "visibility": "private",
-        "date": "2026-02-10",
-        "category": "projects"
-    },
-    {
         "title": "moody",
         "description": {
             "en": "Web archaeology. Mood tracking by demographics (age/gender). Angular frontend hitting a REST API (likely wrapping legacy SOAP/Java).",
