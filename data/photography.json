@@ -38,7 +38,8 @@
       "https://res.cloudinary.com/dug75wesj/image/upload/v1770791772/portfolio/painting/hn5uf842a1yrqdreo2tp.jpg",
       "https://res.cloudinary.com/dug75wesj/image/upload/v1770791773/portfolio/painting/iwj2wrd9r44mvmgp7pvt.jpg",
       "https://res.cloudinary.com/dug75wesj/image/upload/v1770791759/portfolio/painting/dzwqouypcq7x0gyunfeo.jpg",
-      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791794/portfolio/painting/lotqzyoqgqzkekxx77bh.jpg"
+      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791794/portfolio/painting/lotqzyoqgqzkekxx77bh.jpg",
+      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791817/portfolio/painting/mkgzrnoixxmfpaobwiy0.jpg"
     ],
     "date": "2026-02-11",
     "created": "2026-02-11",
@@ -170,24 +171,6 @@
       "https://res.cloudinary.com/dug75wesj/image/upload/v1770791808/portfolio/painting/im1z6j99wvforjsbdi31.jpg",
       "https://res.cloudinary.com/dug75wesj/image/upload/v1770791809/portfolio/painting/zzipuowzhcsedjaljivc.jpg"
     ]
-  },
-  {
-    "id": "photography_extracted_1770812842",
-    "title": {
-      "en": "Detail",
-      "fr": "Photo 1 from Photos 41-42",
-      "ht": "Photo 1 from Photos 41-42",
-      "mx": "Photo 1 from Photos 41-42"
-    },
-    "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1770791817/portfolio/painting/mkgzrnoixxmfpaobwiy0.jpg",
-    "date": "2026-02-11",
-    "created": "2026-02-11",
-    "description": {
-      "en": "",
-      "fr": "",
-      "ht": "",
-      "mx": ""
-    }
   },
   {
     "id": "photography_extracted_1770813469",
