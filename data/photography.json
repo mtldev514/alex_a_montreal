@@ -270,10 +270,10 @@
   {
     "id": "photography_extracted_1770813369",
     "title": {
-      "en": "Photo 3 from Mon quartier",
+      "en": "Tag",
       "fr": "Photo 3 from Mon quartier",
-      "mx": "Photo 3 from Mon quartier",
-      "ht": "Photo 3 from Mon quartier"
+      "ht": "Photo 3 from Mon quartier",
+      "mx": "Photo 3 from Mon quartier"
     },
     "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1770791779/portfolio/painting/xvtfjed65dlarmkpxinp.jpg",
     "date": "2026-02-11",
@@ -281,8 +281,8 @@
     "description": {
       "en": "",
       "fr": "",
-      "mx": "",
-      "ht": ""
+      "ht": "",
+      "mx": ""
     }
   },
   {
