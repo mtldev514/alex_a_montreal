@@ -163,7 +163,18 @@
       "https://res.cloudinary.com/dug75wesj/image/upload/v1770791810/portfolio/painting/vltexheyzxbyo5vsg3wh.jpg",
       "https://res.cloudinary.com/dug75wesj/image/upload/v1770791811/portfolio/painting/iznrorsoxpzzdxmuuelw.jpg",
       "https://res.cloudinary.com/dug75wesj/image/upload/v1770791812/portfolio/painting/eniyfrk8zhrtk1eu6ktl.jpg",
-      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791814/portfolio/painting/vv1dklnmz3s68lfljifx.jpg"
+      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791814/portfolio/painting/vv1dklnmz3s68lfljifx.jpg",
+      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791805/portfolio/painting/izbrvsaamnvwdvrdmyaa.jpg",
+      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791798/portfolio/painting/xs4bxwk6zr0r1ddjxahn.jpg",
+      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791799/portfolio/painting/k9b7jbefz7hvo3smkpjo.jpg",
+      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791800/portfolio/painting/avdch56bzmh9k7hw2aro.jpg",
+      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791797/portfolio/painting/l63c6bo8aadh1gkvlzzp.jpg",
+      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791800/portfolio/painting/n2cltewpqgxjjs7nx1af.jpg",
+      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791804/portfolio/painting/mbsfqzfiy7s88whcl4gk.jpg",
+      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791793/portfolio/painting/xuyocgxfco4yuk5tgchm.jpg",
+      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791805/portfolio/painting/avhalethqspzy77etajs.jpg",
+      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791766/portfolio/painting/czyhbmavzsjehgqok4sn.jpg",
+      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791782/portfolio/painting/va9vwttzdz9fvcqw00rm.jpg"
     ],
     "date": "2026-02-11",
     "created": "2026-02-11",
@@ -199,37 +210,6 @@
       "fr": "Des détails, des motifs.",
       "ht": "Des détails, des motifs.",
       "mx": "Des détails, des motifs."
-    }
-  },
-  {
-    "id": "4b450a37-f40f-4f89-afc2-c679ed55e81b",
-    "legacyId": "photography_pile_3_1770794231",
-    "title": {
-      "en": "Rue ontario le matin",
-      "fr": "Photos 21-30",
-      "ht": "Foto 21-30",
-      "mx": "Fotos 21-30"
-    },
-    "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1770791805/portfolio/painting/izbrvsaamnvwdvrdmyaa.jpg",
-    "gallery": [
-      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791798/portfolio/painting/xs4bxwk6zr0r1ddjxahn.jpg",
-      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791799/portfolio/painting/k9b7jbefz7hvo3smkpjo.jpg",
-      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791800/portfolio/painting/avdch56bzmh9k7hw2aro.jpg",
-      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791797/portfolio/painting/l63c6bo8aadh1gkvlzzp.jpg",
-      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791800/portfolio/painting/n2cltewpqgxjjs7nx1af.jpg",
-      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791804/portfolio/painting/mbsfqzfiy7s88whcl4gk.jpg",
-      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791793/portfolio/painting/xuyocgxfco4yuk5tgchm.jpg",
-      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791805/portfolio/painting/avhalethqspzy77etajs.jpg",
-      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791766/portfolio/painting/czyhbmavzsjehgqok4sn.jpg",
-      "https://res.cloudinary.com/dug75wesj/image/upload/v1770791782/portfolio/painting/va9vwttzdz9fvcqw00rm.jpg"
-    ],
-    "date": "2026-02-11",
-    "created": "2026-02-11",
-    "description": {
-      "en": "J'aime pas me lever tôt, mais qu'elle est belle, la lumière.",
-      "fr": "",
-      "ht": "",
-      "mx": ""
     }
   },
   {
