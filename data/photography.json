@@ -174,10 +174,10 @@
   {
     "id": "photography_extracted_1770812842",
     "title": {
-      "en": "Photo 1 from Photos 41-42",
+      "en": "Detail",
       "fr": "Photo 1 from Photos 41-42",
-      "mx": "Photo 1 from Photos 41-42",
-      "ht": "Photo 1 from Photos 41-42"
+      "ht": "Photo 1 from Photos 41-42",
+      "mx": "Photo 1 from Photos 41-42"
     },
     "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1770791817/portfolio/painting/mkgzrnoixxmfpaobwiy0.jpg",
     "date": "2026-02-11",
@@ -185,8 +185,8 @@
     "description": {
       "en": "",
       "fr": "",
-      "mx": "",
-      "ht": ""
+      "ht": "",
+      "mx": ""
     }
   },
   {
