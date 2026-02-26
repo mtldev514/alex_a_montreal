@@ -1,0 +1,403 @@
+/* ═══════════════════════════════════════════════════
+   Y2K DELUXE — Brushed chrome, display type, polish
+   ═══════════════════════════════════════════════════ */
+
+/* ── Typography import ── */
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
+:root {
+    /* ── Override font stack ── */
+    --font-primary: "Space Grotesk", "Verdana", sans-serif;
+    --font-mono: "Courier New", monospace;
+
+    /* ── Page ── */
+    --page-bg: #c8cede;
+    --container-bg: #e0e4f0;
+    --text-primary: #0c0c1a;
+    --text-secondary: #33335a;
+    --text-muted: #606088;
+    --text-dim: #33335a;
+    --text-light: #8080a8;
+
+    /* ── Header ── */
+    --header-bg: #7880a0;
+    --header-text: #f0f2ff;
+    --header-border-light: #b0b8d8;
+    --header-border-dark: #3a4068;
+    --mirror-shine: #ffffff;
+    --mirror-light: #d0d8ff;
+    --mirror-mid: #8898d0;
+
+    /* ── Borders — softer, less Win95 ── */
+    --border-light: #d0d4e8;
+    --border-dark: #8080a0;
+    --border-groove: #a0a8c8;
+    --border-mid: #9090b0;
+
+    /* ── Buttons ── */
+    --btn-bg-start: #e8ecfa;
+    --btn-bg-mid: #d0d4e8;
+    --btn-bg-end: #a0a8c4;
+    --btn-hover-start: #f0f4ff;
+    --btn-hover-mid: #dce0f4;
+    --btn-hover-end: #b0b8d4;
+    --btn-active-start: #9898b8;
+    --btn-active-mid: #7070a0;
+    --btn-active-end: #c0c8e0;
+    --btn-text: #1a1a3a;
+    --btn-text-active: #0c0830;
+
+    /* ── Filter ── */
+    --filter-bg: #d4d8ea;
+    --lang-btn-bg: #a8b0c8;
+    --lang-dropdown-bg: #e8ecfa;
+
+    /* ── Terminal ── */
+    --term-bg: #06061a;
+    --term-green: #90b8ff;
+    --term-green-dim: #142848;
+    --term-cyan: #b0d0ff;
+    --term-text: #6878b0;
+    --term-dim: #2c3860;
+    --term-titlebar: #141838;
+    --term-titlebar-border: #4860a0;
+    --term-btn-close: #c86070;
+    --term-btn-min: #c8b860;
+    --term-btn-max: #60b888;
+
+    /* ── Marquee ── */
+    --marquee-bg: #080820;
+    --marquee-text: #a0b8e8;
+
+    /* ── Winamp ── */
+    --wp-bg: #080820;
+    --wp-surface: #182040;
+    --wp-display: #060618;
+    --wp-titlebar-start: #202860;
+    --wp-titlebar-mid: #302068;
+    --wp-playlist-bg: #080820;
+    --wp-btn-start: #202848;
+    --wp-btn-mid: #141838;
+    --wp-btn-end: #080820;
+    --wp-btn-hover-start: #3040a0;
+    --wp-btn-hover-mid: #202860;
+    --wp-btn-hover-end: #141838;
+    --wp-text: #c0c8f0;
+    --wp-green: #90b8ff;
+    --wp-info: #c8d8ff;
+    --wp-selected: #202860;
+
+    /* ── Music ── */
+    --music-bg: #080820;
+    --music-gold: #c8b080;
+    --music-text: #dce0f8;
+    --music-text-dim: #6878a8;
+
+    /* ── Gallery / Detail ── */
+    --gallery-border: #8888a8;
+    --detail-meta-bg: #d0d4e8;
+
+    /* ── Badges ── */
+    --badge-public-bg: #d8ddf0;
+    --badge-public-text: #404070;
+    --badge-private-bg: #d8ddf0;
+    --badge-private-text: #404070;
+
+    /* ── Counter ── */
+    --counter-text: #9060a0;
+
+    /* ── Accents ── */
+    --accent-navy: #202860;
+    --accent-magenta: #b870d8;
+    --accent-yellow: #e0d0a0;
+
+    /* ── Chrome scale ── */
+    --chrome-black: #060618;
+    --chrome-darkest: #0c0c28;
+    --chrome-darker: #141838;
+    --chrome-dark: #202048;
+    --chrome-mid: #303060;
+    --chrome-gray: #404078;
+    --chrome-light: #6060a0;
+    --chrome-border: #9090b0;
+    --chrome-soft: #b0b8d0;
+    --chrome-active: #181840;
+    --chrome-grip-alt: #383868;
+    --chrome-vol-start: #143828;
+
+    /* ── Glows ── */
+    --marquee-glow: rgba(120, 150, 220, 0.15);
+    --marquee-glow-text: rgba(140, 170, 255, 0.4);
+    --term-glow: rgba(80, 120, 255, 0.2);
+    --wp-glow-mid: rgba(100, 130, 255, 0.18);
+    --wp-glow-soft: rgba(100, 130, 255, 0.10);
+    --wp-glow-faint: rgba(100, 130, 255, 0.05);
+
+    /* ── Sparkles ── */
+    --sparkle-1: #90b0ff;
+    --sparkle-2: #d890e8;
+    --sparkle-3: #70e0d0;
+    --sparkle-4: #c090ff;
+    --sparkle-5: #ffffff;
+    --sparkle-6: #e8c870;
+    --sparkle-7: #ff80b0;
+
+    /* ── Decorative ── */
+    --petal-color: #b890d8;
+}
+
+
+/* ═══════════════════════════════════════════════════
+   STRUCTURAL OVERRIDES — Typography & Spacing
+   ═══════════════════════════════════════════════════ */
+
+/* ── Body ── */
+body {
+    font-family: var(--font-primary);
+    font-size: 14px;
+    line-height: 1.6;
+    padding: 28px;
+    letter-spacing: 0.01em;
+}
+
+/* ── Container: generous padding, modern shadow ── */
+.container {
+    padding: 28px;
+    border-radius: 14px;
+    border-width: 2px;
+    border-style: solid;
+    box-shadow:
+        0 4px 24px rgba(10, 10, 40, 0.14),
+        0 1px 3px rgba(10, 10, 40, 0.08),
+        inset 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+/* ── Header: taller, more air ── */
+header {
+    padding: 22px 16px;
+    margin-bottom: 24px;
+    border-width: 2px;
+    border-radius: 12px;
+    box-shadow:
+        inset 0 1px 0 rgba(255, 255, 255, 0.5),
+        inset 0 -1px 0 rgba(0, 0, 0, 0.08),
+        0 2px 10px rgba(10, 10, 40, 0.10);
+}
+
+/* ── H1: Space Grotesk display ── */
+h1 {
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 3em;
+    font-weight: 700;
+    letter-spacing: 0.25em;
+    filter: drop-shadow(0 2px 4px rgba(10, 10, 40, 0.25));
+}
+
+/* ── Marquee ── */
+.marquee-container {
+    padding: 8px 14px;
+    margin-bottom: 24px;
+    border-width: 2px;
+    border-radius: 10px;
+    font-size: 13px;
+    letter-spacing: 0.04em;
+}
+
+/* ── Content layout ── */
+.content {
+    gap: 28px;
+}
+
+/* ── Sidebar ── */
+.sidebar {
+    width: 230px;
+    min-width: 230px;
+}
+
+/* ── Winamp ── */
+.winamp {
+    border-radius: 10px;
+    border-width: 2px;
+}
+
+.winamp-titlebar {
+    padding: 4px 8px;
+    letter-spacing: 0.12em;
+}
+
+.winamp-display {
+    margin: 4px 6px;
+    padding: 8px 10px;
+}
+
+.winamp-playlist-titlebar {
+    letter-spacing: 0.15em;
+}
+
+.winamp-pl-item {
+    padding: 4px 10px;
+    font-family: var(--font-primary);
+    font-size: 11px;
+}
+
+/* ── Filter bar ── */
+.filter-bar {
+    padding: 10px 12px;
+    margin-bottom: 20px;
+    gap: 6px;
+    border-radius: 10px;
+    border-width: 2px;
+}
+
+.filter-btn {
+    padding: 7px 10px;
+    border-radius: 8px;
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    border-width: 2px;
+    transition: all 0.15s ease;
+}
+
+.filter-btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(10, 10, 40, 0.12);
+}
+
+.filter-btn.active {
+    transform: translateY(0);
+}
+
+.sort-btn {
+    border-radius: 8px;
+    font-family: "Space Grotesk", sans-serif;
+}
+
+/* ── Gallery grid ── */
+.gallery-grid {
+    gap: 20px;
+}
+
+/* ── Cards: modern soft shadow, hover lift ── */
+.gallery-item {
+    border: 1px solid var(--border-groove);
+    border-radius: 12px;
+    padding: 6px;
+    box-shadow:
+        0 2px 8px rgba(10, 10, 40, 0.08),
+        0 1px 2px rgba(10, 10, 40, 0.05);
+    transition: all 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.gallery-item:hover {
+    transform: translateY(-4px);
+    box-shadow:
+        0 12px 28px rgba(10, 10, 40, 0.14),
+        0 4px 8px rgba(10, 10, 40, 0.06);
+    border-color: var(--border-mid);
+}
+
+.gallery-item img {
+    border-radius: 8px;
+    height: 190px;
+}
+
+.gallery-item h3 {
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 600;
+    font-size: 0.95em;
+    margin: 8px 8px 2px;
+    letter-spacing: 0.01em;
+}
+
+.gallery-item .gallery-subtitle {
+    font-size: 0.82em;
+    margin: 2px 8px 0;
+    color: var(--text-muted);
+}
+
+.item-date {
+    font-family: var(--font-primary);
+    font-size: 0.72em;
+    margin: 4px 8px 8px;
+    color: var(--text-light);
+    letter-spacing: 0.03em;
+}
+
+/* ── Pile badge ── */
+.pile-badge {
+    border-radius: 6px;
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 10px;
+    padding: 3px 8px;
+    background: rgba(10, 10, 40, 0.60);
+    backdrop-filter: blur(4px);
+}
+
+/* ── Load more ── */
+.load-more-btn {
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 600;
+    border-radius: 10px;
+    padding: 12px 36px;
+    letter-spacing: 0.03em;
+    border-width: 2px;
+    transition: all 0.15s ease;
+}
+
+.load-more-btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 3px 12px rgba(10, 10, 40, 0.12);
+}
+
+/* ── Settings ── */
+.settings-btn {
+    border-radius: 8px;
+    border-width: 2px;
+}
+
+.settings-dropdown {
+    border-radius: 10px;
+    border-width: 2px;
+    box-shadow: 0 6px 20px rgba(10, 10, 40, 0.18);
+}
+
+.settings-option {
+    padding: 7px 14px;
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 12px;
+}
+
+.settings-section-label {
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    padding: 6px 14px 3px;
+}
+
+/* ── Terminal footer: keep mono, refine spacing ── */
+.terminal-body {
+    padding: 14px 18px;
+    font-family: var(--font-mono);
+    line-height: 1.8;
+}
+
+.terminal-line {
+    letter-spacing: 0.02em;
+}
+
+.footer-terminal {
+    margin-top: 36px;
+}
+
+/* ── Respect motion preferences ── */
+@media (prefers-reduced-motion: reduce) {
+    .gallery-item,
+    .filter-btn,
+    .load-more-btn,
+    .settings-btn {
+        transition: none !important;
+        transform: none !important;
+    }
+}
