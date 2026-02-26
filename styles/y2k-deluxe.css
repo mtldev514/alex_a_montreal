@@ -3,147 +3,149 @@
    ═══════════════════════════════════════════════════ */
 
 /* ── Typography import ── */
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Capriola&family=Titan+One&family=Rubik+Dirt&family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap');
 
 :root {
     /* ── Override font stack ── */
-    --font-primary: "Space Grotesk", "Verdana", sans-serif;
-    --font-mono: "Courier New", monospace;
+    --font-primary: "Capriola", "Verdana", sans-serif;
+    --font-display: "Titan One", cursive;
+    --font-accent: "Rubik Dirt", cursive;
+    --font-mono: "DM Mono", "Courier New", monospace;
 
     /* ── Page ── */
-    --page-bg: #c8cede;
-    --container-bg: #e0e4f0;
-    --text-primary: #0c0c1a;
-    --text-secondary: #33335a;
-    --text-muted: #606088;
-    --text-dim: #33335a;
-    --text-light: #8080a8;
+    --page-bg: #181a22;
+    --container-bg: #e6e9f2;
+    --text-primary: #1f2230;
+    --text-secondary: #2d3242;
+    --text-muted: #545a72;
+    --text-dim: #2d3242;
+    --text-light: #7b839e;
 
     /* ── Header ── */
-    --header-bg: #7880a0;
-    --header-text: #f0f2ff;
-    --header-border-light: #b0b8d8;
-    --header-border-dark: #3a4068;
-    --mirror-shine: #ffffff;
-    --mirror-light: #d0d8ff;
-    --mirror-mid: #8898d0;
+    --header-bg: #3b3f56;
+    --header-text: #f4f6fb;
+    --header-border-light: #cfd4e2;
+    --header-border-dark: #1f2230;
+    --mirror-shine: #f4f6fb;
+    --mirror-light: #cfd4e2;
+    --mirror-mid: #a8afc4;
 
     /* ── Borders — softer, less Win95 ── */
-    --border-light: #d0d4e8;
-    --border-dark: #8080a0;
-    --border-groove: #a0a8c8;
-    --border-mid: #9090b0;
+    --border-light: #cfd4e2;
+    --border-dark: #545a72;
+    --border-groove: #a8afc4;
+    --border-mid: #7b839e;
 
     /* ── Buttons ── */
-    --btn-bg-start: #e8ecfa;
-    --btn-bg-mid: #d0d4e8;
-    --btn-bg-end: #a0a8c4;
-    --btn-hover-start: #f0f4ff;
-    --btn-hover-mid: #dce0f4;
-    --btn-hover-end: #b0b8d4;
-    --btn-active-start: #9898b8;
-    --btn-active-mid: #7070a0;
-    --btn-active-end: #c0c8e0;
-    --btn-text: #1a1a3a;
-    --btn-text-active: #0c0830;
+    --btn-bg-start: #f4f6fb;
+    --btn-bg-mid: #e6e9f2;
+    --btn-bg-end: #cfd4e2;
+    --btn-hover-start: #ffffff;
+    --btn-hover-mid: #f4f6fb;
+    --btn-hover-end: #d8ddea;
+    --btn-active-start: #bc3c58;
+    --btn-active-mid: #a87838;
+    --btn-active-end: #c89850;
+    --btn-text: #2d3242;
+    --btn-text-active: #f4f6fb;
 
     /* ── Filter ── */
-    --filter-bg: #d4d8ea;
-    --lang-btn-bg: #a8b0c8;
-    --lang-dropdown-bg: #e8ecfa;
+    --filter-bg: #cfd4e2;
+    --lang-btn-bg: #a8afc4;
+    --lang-dropdown-bg: #f4f6fb;
 
     /* ── Terminal ── */
-    --term-bg: #06061a;
-    --term-green: #90b8ff;
-    --term-green-dim: #142848;
-    --term-cyan: #b0d0ff;
-    --term-text: #6878b0;
-    --term-dim: #2c3860;
-    --term-titlebar: #141838;
-    --term-titlebar-border: #4860a0;
+    --term-bg: #181a22;
+    --term-green: #c89850;
+    --term-green-dim: #3b3f56;
+    --term-cyan: #cfd4e2;
+    --term-text: #a8afc4;
+    --term-dim: #545a72;
+    --term-titlebar: #1f2230;
+    --term-titlebar-border: #4e6f73;
     --term-btn-close: #c86070;
     --term-btn-min: #c8b860;
     --term-btn-max: #60b888;
 
     /* ── Marquee ── */
-    --marquee-bg: #080820;
-    --marquee-text: #a0b8e8;
+    --marquee-bg: #1f2230;
+    --marquee-text: #cfd4e2;
 
     /* ── Winamp ── */
-    --wp-bg: #080820;
-    --wp-surface: #182040;
-    --wp-display: #060618;
-    --wp-titlebar-start: #202860;
-    --wp-titlebar-mid: #302068;
-    --wp-playlist-bg: #080820;
-    --wp-btn-start: #202848;
-    --wp-btn-mid: #141838;
-    --wp-btn-end: #080820;
-    --wp-btn-hover-start: #3040a0;
-    --wp-btn-hover-mid: #202860;
-    --wp-btn-hover-end: #141838;
-    --wp-text: #c0c8f0;
-    --wp-green: #90b8ff;
-    --wp-info: #c8d8ff;
-    --wp-selected: #202860;
+    --wp-bg: #181a22;
+    --wp-surface: #2d3242;
+    --wp-display: #1f2230;
+    --wp-titlebar-start: #3b3f56;
+    --wp-titlebar-mid: #2d3242;
+    --wp-playlist-bg: #181a22;
+    --wp-btn-start: #cfd4e2;
+    --wp-btn-mid: #a8afc4;
+    --wp-btn-end: #7b839e;
+    --wp-btn-hover-start: #f4f6fb;
+    --wp-btn-hover-mid: #e6e9f2;
+    --wp-btn-hover-end: #cfd4e2;
+    --wp-text: #f4f6fb;
+    --wp-green: #c89850;
+    --wp-info: #e6e9f2;
+    --wp-selected: #4e6f73;
 
     /* ── Music ── */
-    --music-bg: #080820;
-    --music-gold: #c8b080;
-    --music-text: #dce0f8;
-    --music-text-dim: #6878a8;
+    --music-bg: #1f2230;
+    --music-gold: #c89850;
+    --music-text: #f4f6fb;
+    --music-text-dim: #a8afc4;
 
     /* ── Gallery / Detail ── */
-    --gallery-border: #8888a8;
-    --detail-meta-bg: #d0d4e8;
+    --gallery-border: #a8afc4;
+    --detail-meta-bg: #cfd4e2;
 
     /* ── Badges ── */
-    --badge-public-bg: #d8ddf0;
-    --badge-public-text: #404070;
-    --badge-private-bg: #d8ddf0;
-    --badge-private-text: #404070;
+    --badge-public-bg: #e6e9f2;
+    --badge-public-text: #2d3242;
+    --badge-private-bg: #e6e9f2;
+    --badge-private-text: #2d3242;
 
     /* ── Counter ── */
-    --counter-text: #9060a0;
+    --counter-text: #c89850;
 
     /* ── Accents ── */
-    --accent-navy: #202860;
-    --accent-magenta: #b870d8;
-    --accent-yellow: #e0d0a0;
+    --accent-navy: #1f2230;
+    --accent-magenta: #bc3c58;
+    --accent-yellow: #c89850;
 
     /* ── Chrome scale ── */
-    --chrome-black: #060618;
-    --chrome-darkest: #0c0c28;
-    --chrome-darker: #141838;
-    --chrome-dark: #202048;
-    --chrome-mid: #303060;
-    --chrome-gray: #404078;
-    --chrome-light: #6060a0;
-    --chrome-border: #9090b0;
-    --chrome-soft: #b0b8d0;
-    --chrome-active: #181840;
-    --chrome-grip-alt: #383868;
-    --chrome-vol-start: #143828;
+    --chrome-black: #181a22;
+    --chrome-darkest: #1f2230;
+    --chrome-darker: #2d3242;
+    --chrome-dark: #3b3f56;
+    --chrome-mid: #545a72;
+    --chrome-gray: #7b839e;
+    --chrome-light: #a8afc4;
+    --chrome-border: #cfd4e2;
+    --chrome-soft: #e6e9f2;
+    --chrome-active: #4e6f73;
+    --chrome-grip-alt: #545a72;
+    --chrome-vol-start: #4e6f73;
 
     /* ── Glows ── */
-    --marquee-glow: rgba(120, 150, 220, 0.15);
-    --marquee-glow-text: rgba(140, 170, 255, 0.4);
-    --term-glow: rgba(80, 120, 255, 0.2);
-    --wp-glow-mid: rgba(100, 130, 255, 0.18);
-    --wp-glow-soft: rgba(100, 130, 255, 0.10);
-    --wp-glow-faint: rgba(100, 130, 255, 0.05);
+    --marquee-glow: rgba(200, 152, 80, 0.18);
+    --marquee-glow-text: rgba(200, 152, 80, 0.4);
+    --term-glow: rgba(188, 60, 88, 0.2);
+    --wp-glow-mid: rgba(200, 152, 80, 0.2);
+    --wp-glow-soft: rgba(200, 152, 80, 0.12);
+    --wp-glow-faint: rgba(200, 152, 80, 0.06);
 
     /* ── Sparkles ── */
-    --sparkle-1: #90b0ff;
-    --sparkle-2: #d890e8;
-    --sparkle-3: #70e0d0;
-    --sparkle-4: #c090ff;
-    --sparkle-5: #ffffff;
-    --sparkle-6: #e8c870;
-    --sparkle-7: #ff80b0;
+    --sparkle-1: #c89850;
+    --sparkle-2: #bc3c58;
+    --sparkle-3: #4e6f73;
+    --sparkle-4: #7b839e;
+    --sparkle-5: #f4f6fb;
+    --sparkle-6: #a87838;
+    --sparkle-7: #cfd4e2;
 
     /* ── Decorative ── */
-    --petal-color: #b890d8;
+    --petal-color: #bc3c58;
 }
 
 
@@ -158,6 +160,10 @@ body {
     line-height: 1.6;
     padding: 28px;
     letter-spacing: 0.01em;
+    background:
+        radial-gradient(ellipse at 25% 20%, rgba(200, 152, 80, 0.08) 0%, transparent 55%),
+        radial-gradient(ellipse at 75% 70%, rgba(188, 60, 88, 0.06) 0%, transparent 60%),
+        var(--page-bg);
 }
 
 /* ── Container: generous padding, modern shadow ── */
@@ -186,11 +192,12 @@ header {
 
 /* ── H1: Space Grotesk display ── */
 h1 {
-    font-family: "Space Grotesk", sans-serif;
+    font-family: var(--font-display);
     font-size: 3em;
-    font-weight: 700;
-    letter-spacing: 0.25em;
-    filter: drop-shadow(0 2px 4px rgba(10, 10, 40, 0.25));
+    font-weight: 400;
+    letter-spacing: 0.14em;
+    color: var(--header-text);
+    text-shadow: 0 4px 0 #bc3c58, 0 8px 0 #922f44, 0 16px 28px rgba(92, 27, 42, 0.45);
 }
 
 /* ── Marquee ── */
@@ -252,7 +259,7 @@ h1 {
 .filter-btn {
     padding: 7px 10px;
     border-radius: 8px;
-    font-family: "Space Grotesk", sans-serif;
+    font-family: var(--font-display);
     font-size: 13px;
     font-weight: 600;
     letter-spacing: 0.02em;
@@ -271,7 +278,7 @@ h1 {
 
 .sort-btn {
     border-radius: 8px;
-    font-family: "Space Grotesk", sans-serif;
+    font-family: var(--font-display);
 }
 
 /* ── Gallery grid ── */
@@ -304,8 +311,8 @@ h1 {
 }
 
 .gallery-item h3 {
-    font-family: "Space Grotesk", sans-serif;
-    font-weight: 600;
+    font-family: var(--font-display);
+    font-weight: 400;
     font-size: 0.95em;
     margin: 8px 8px 2px;
     letter-spacing: 0.01em;
@@ -328,7 +335,7 @@ h1 {
 /* ── Pile badge ── */
 .pile-badge {
     border-radius: 6px;
-    font-family: "Space Grotesk", sans-serif;
+    font-family: var(--font-display);
     font-size: 10px;
     padding: 3px 8px;
     background: rgba(10, 10, 40, 0.60);
@@ -337,8 +344,8 @@ h1 {
 
 /* ── Load more ── */
 .load-more-btn {
-    font-family: "Space Grotesk", sans-serif;
-    font-weight: 600;
+    font-family: var(--font-display);
+    font-weight: 400;
     border-radius: 10px;
     padding: 12px 36px;
     letter-spacing: 0.03em;
@@ -365,12 +372,12 @@ h1 {
 
 .settings-option {
     padding: 7px 14px;
-    font-family: "Space Grotesk", sans-serif;
+    font-family: var(--font-display);
     font-size: 12px;
 }
 
 .settings-section-label {
-    font-family: "Space Grotesk", sans-serif;
+    font-family: var(--font-display);
     font-size: 10px;
     letter-spacing: 0.12em;
     padding: 6px 14px 3px;

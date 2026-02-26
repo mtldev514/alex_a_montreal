@@ -17,9 +17,6 @@ concurrency:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: 📦 Checkout
@@ -35,7 +32,7 @@ jobs:
         run: npm ci
 
       - name: 🏗️ Build site
-        run: npm run build
+        run: npm run build -- --production
 
       - name: 📊 Build summary
         run: |
