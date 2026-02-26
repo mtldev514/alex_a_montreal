@@ -168,23 +168,5 @@
             "ht": "",
             "mx": ""
         }
-    },
-    {
-        "id": "photography_extracted_1770813474",
-        "title": {
-            "en": "Self portrait",
-            "fr": "Photo 5 from Photos 31-40",
-            "ht": "Photo 5 from Photos 31-40",
-            "mx": "Photo 5 from Photos 31-40"
-        },
-        "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1770791813/portfolio/painting/x1lrboxzutxvquypxxvh.jpg",
-        "date": "2026-02-11",
-        "created": "2026-02-11",
-        "description": {
-            "en": "",
-            "fr": "",
-            "ht": "",
-            "mx": ""
-        }
     }
 ]
