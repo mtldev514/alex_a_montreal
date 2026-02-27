@@ -1,0 +1,32 @@
+:root {
+  --bg: #fff0f6;
+  --text: #3b0a2a;
+  --accent: #ff6fbf;
+  --muted: #ffd6e8;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+}
+
+a { color: var(--accent); }
+
+.btn, button {
+  background: linear-gradient(180deg, var(--accent), #ff4aa0);
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* Subtle card style */
+.card {
+  background: rgba(255,255,255,0.6);
+  border: 1px solid rgba(59,10,42,0.06);
+  box-shadow: 0 6px 18px rgba(203,101,154,0.06);
+  border-radius: 12px;
+  padding: 1rem;
+}

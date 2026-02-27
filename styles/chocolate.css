@@ -1,0 +1,29 @@
+:root {
+  --bg: #2b1b0b;
+  --text: #f7e6d0;
+  --accent: #c58939;
+  --muted: #b78a5b;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+}
+
+a { color: var(--accent); }
+
+.btn, button {
+  background: linear-gradient(180deg, #d08b3f, #b36f2f);
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+}
+
+.card {
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(247,230,208,0.04);
+  border-radius: 10px;
+  padding: 1rem;
+}

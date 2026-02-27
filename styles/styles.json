@@ -1,11 +1,29 @@
 {
-    "defaultTheme": "mineral",
-    "allowUserSwitch": true,
-    "themes": [
-        { "id": "mineral",    "name": "Mineral",     "emoji": "❄️", "file": "mineral.css" },
-        { "id": "jr16",       "name": "JR-16",       "emoji": "🌿", "file": "jr16.css" },
-        { "id": "beton",      "name": "Béton",       "emoji": "🌫️", "file": "beton.css" },
-        { "id": "bubblegum",  "name": "Bubble Gum",  "emoji": "🍬", "file": "bubblegum.css" },
-        { "id": "y2k-deluxe", "name": "Y2K Deluxe",  "emoji": "✨", "file": "y2k-deluxe.css" }
-    ]
+  "defaultTheme": "mineral",
+  "allowUserSwitch": true,
+  "themes": [
+    {
+      "id": "mineral",
+      "name": "Mineral",
+      "emoji": "❄️",
+      "file": "mineral.css"
+    },
+    { "id": "jr16", "name": "JR-16", "emoji": "🌿", "file": "jr16.css" },
+    { "id": "beton", "name": "Béton", "emoji": "🌫️", "file": "beton.css" },
+    {
+      "id": "bubblegum",
+      "name": "Bubble Gum",
+      "emoji": "🍬",
+      "file": "bubblegum.css"
+    },
+    { "id": "candy", "name": "Candy", "emoji": "🍭", "file": "candy.css" },
+    { "id": "sugar", "name": "Sugar", "emoji": "🍩", "file": "sugar.css" },
+    { "id": "mint", "name": "Mint", "emoji": "🌱", "file": "mint.css" },
+    {
+      "id": "chocolate",
+      "name": "Chocolate",
+      "emoji": "🍫",
+      "file": "chocolate.css"
+    }
+  ]
 }
