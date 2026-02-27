@@ -2,5 +2,6 @@
   "error": "/Users/alexcat/Developer/alex_a_montreal/lang/mx.json: Unexpected end of JSON input",
   "nav_photo": "Foto",
   "nav_sculpting": "Volumen",
-  "nav_projects": "Código"
+  "nav_projects": "Código",
+  "nav_music": "Sonido"
 }
