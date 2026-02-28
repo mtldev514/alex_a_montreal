@@ -1,13 +1,13 @@
 {
-  "app": {
-    "name": "Alex's Portfolio",
-    "version": "1.0",
-    "adminTitle": "ALEX'S PORTFOLIO MANAGER V1.0"
-  },
   "api": {
     "host": "127.0.0.1",
     "port": 5001,
     "baseUrl": "http://127.0.0.1:5001"
+  },
+  "app": {
+    "name": "Alex's Portfolio",
+    "version": "1.0",
+    "adminTitle": "ALEX'S PORTFOLIO MANAGER V1.0"
   },
   "paths": {
     "dataDir": "data",
@@ -15,18 +15,20 @@
     "pagesDir": "pages"
   },
   "github": {
-    "username": "mtldev514",
     "repoName": "retro-portfolio",
+    "username": "mtldev514",
     "mediaReleaseTag": "media",
-    "uploadCategories": ["music"]
-  },
-  "counter": {
-    "apiUrl": "https://api.counterapi.dev/v1/retro-portfolio/visits/up"
+    "uploadCategories": [
+      "music"
+    ]
   },
   "winamp": {
     "title": "Radyo",
     "bitrate": "192",
     "frequency": "44"
+  },
+  "counter": {
+    "apiUrl": "https://api.counterapi.dev/v1/retro-portfolio/visits/up"
   },
   "pagination": {
     "pageSize": 24

@@ -3,23 +3,23 @@
   "supportedLanguages": [
     {
       "code": "en",
-      "name": "English",
-      "flag": "🇬🇧🇨🇦"
+      "flag": "🇬🇧🇨🇦",
+      "name": "English"
     },
     {
       "code": "fr",
-      "name": "Français",
-      "flag": "⚜️🇨🇦"
+      "flag": "⚜️🇨🇦",
+      "name": "Français"
     },
     {
       "code": "mx",
-      "name": "Español",
-      "flag": "🇲🇽"
+      "flag": "🇲🇽",
+      "name": "Español"
     },
     {
       "code": "ht",
-      "name": "Kreyòl Ayisyen",
-      "flag": "🇭🇹"
+      "flag": "🇭🇹",
+      "name": "Kreyòl Ayisyen"
     }
   ]
 }

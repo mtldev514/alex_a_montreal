@@ -2,11 +2,11 @@
   "mediaTypes": [
     {
       "id": "image",
-      "name": "Image",
       "icon": "🖼️",
+      "name": "Image",
       "viewer": "ImageViewer",
-      "supportsGallery": true,
-      "supportsMetadata": true,
+      "dataFile": "data/image.json",
+      "description": "Static images (photos, paintings, drawings, etc.)",
       "acceptedFormats": [
         ".jpg",
         ".jpeg",
@@ -15,17 +15,17 @@
         ".webp",
         ".svg"
       ],
-      "uploadDestination": "cloudinary",
-      "description": "Static images (photos, paintings, drawings, etc.)",
-      "dataFile": "data/image.json"
+      "supportsGallery": true,
+      "supportsMetadata": true,
+      "uploadDestination": "cloudinary"
     },
     {
       "id": "audio",
-      "name": "Audio",
       "icon": "🎵",
+      "name": "Audio",
       "viewer": "AudioPlayer",
-      "supportsGallery": false,
-      "supportsMetadata": false,
+      "dataFile": "data/audio.json",
+      "description": "Audio files (music, podcasts, sounds)",
       "acceptedFormats": [
         ".mp3",
         ".wav",
@@ -34,53 +34,53 @@
         ".m4a",
         ".aac"
       ],
-      "uploadDestination": "github",
-      "description": "Audio files (music, podcasts, sounds)",
-      "dataFile": "data/audio.json"
+      "supportsGallery": false,
+      "supportsMetadata": false,
+      "uploadDestination": "github"
     },
     {
       "id": "video",
-      "name": "Video",
       "icon": "🎬",
+      "name": "Video",
       "viewer": "VideoPlayer",
-      "supportsGallery": false,
-      "supportsMetadata": false,
+      "dataFile": "data/video.json",
+      "description": "Video files (films, animations, recordings)",
       "acceptedFormats": [
         ".mp4",
         ".webm",
         ".mov"
       ],
-      "uploadDestination": "cloudinary",
-      "description": "Video files (films, animations, recordings)",
-      "dataFile": "data/video.json"
+      "supportsGallery": false,
+      "supportsMetadata": false,
+      "uploadDestination": "cloudinary"
     },
     {
       "id": "text",
-      "name": "Text",
       "icon": "📝",
+      "name": "Text",
       "viewer": "TextRenderer",
-      "supportsGallery": false,
-      "supportsMetadata": false,
+      "dataFile": "data/text.json",
+      "description": "Text content (blogs, poetry, articles)",
       "acceptedFormats": [
         ".md",
         ".txt",
         ".html"
       ],
-      "uploadDestination": "none",
-      "description": "Text content (blogs, poetry, articles)",
-      "dataFile": "data/text.json"
+      "supportsGallery": false,
+      "supportsMetadata": false,
+      "uploadDestination": "none"
     },
     {
       "id": "link",
-      "name": "Link",
       "icon": "🔗",
+      "name": "Link",
       "viewer": "LinkCard",
+      "dataFile": "data/link.json",
+      "description": "External links (projects, websites, portfolios)",
+      "acceptedFormats": [],
       "supportsGallery": false,
       "supportsMetadata": false,
-      "acceptedFormats": [],
-      "uploadDestination": "none",
-      "description": "External links (projects, websites, portfolios)",
-      "dataFile": "data/link.json"
+      "uploadDestination": "none"
     }
   ]
 }

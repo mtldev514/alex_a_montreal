@@ -2,15 +2,9 @@
   "contentTypes": [
     {
       "id": "painting",
-      "name": "Painting",
       "icon": "🎨",
-      "mediaType": "image",
-      "description": "Traditional paintings using various media",
+      "name": "Painting",
       "fields": {
-        "required": [
-          "title",
-          "url"
-        ],
         "optional": [
           {
             "name": "medium",
@@ -40,20 +34,20 @@
             "type": "text",
             "label": "Date"
           }
-        ]
-      }
-    },
-    {
-      "id": "drawing",
-      "name": "Drawing",
-      "icon": "✏️",
-      "mediaType": "image",
-      "description": "Hand-drawn artwork and sketches",
-      "fields": {
+        ],
         "required": [
           "title",
           "url"
-        ],
+        ]
+      },
+      "mediaType": "image",
+      "description": "Traditional paintings using various media"
+    },
+    {
+      "id": "drawing",
+      "icon": "✏️",
+      "name": "Drawing",
+      "fields": {
         "optional": [
           {
             "name": "medium",
@@ -76,20 +70,20 @@
             "type": "text",
             "label": "Date"
           }
-        ]
-      }
-    },
-    {
-      "id": "photography",
-      "name": "Photography",
-      "icon": "📷",
-      "mediaType": "image",
-      "description": "Photographic works",
-      "fields": {
+        ],
         "required": [
           "title",
           "url"
-        ],
+        ]
+      },
+      "mediaType": "image",
+      "description": "Hand-drawn artwork and sketches"
+    },
+    {
+      "id": "photography",
+      "icon": "📷",
+      "name": "Photography",
+      "fields": {
         "optional": [
           {
             "name": "camera",
@@ -119,19 +113,20 @@
             "type": "text",
             "label": "Date"
           }
+        ],
+        "required": [
+          "title",
+          "url"
         ]
-      }
+      },
+      "mediaType": "image",
+      "description": "Photographic works"
     },
     {
       "id": "sculpting",
-      "name": "Sculpting",
       "icon": "🗿",
-      "mediaType": "image",
-      "description": "Three-dimensional sculptural works",
+      "name": "Sculpting",
       "fields": {
-        "required": [
-          "title"
-        ],
         "optional": [
           {
             "name": "material",
@@ -160,20 +155,19 @@
             "type": "text",
             "label": "Image URL"
           }
+        ],
+        "required": [
+          "title"
         ]
-      }
+      },
+      "mediaType": "image",
+      "description": "Three-dimensional sculptural works"
     },
     {
       "id": "music",
-      "name": "Music",
       "icon": "🎵",
-      "mediaType": "audio",
-      "description": "Musical compositions and recordings",
+      "name": "Music",
       "fields": {
-        "required": [
-          "title",
-          "url"
-        ],
         "optional": [
           {
             "name": "genre",
@@ -197,19 +191,20 @@
             "type": "textarea",
             "label": "Description"
           }
+        ],
+        "required": [
+          "title",
+          "url"
         ]
-      }
+      },
+      "mediaType": "audio",
+      "description": "Musical compositions and recordings"
     },
     {
       "id": "projects",
-      "name": "Projects",
       "icon": "💻",
-      "mediaType": "link",
-      "description": "Web projects, code repositories, and digital work",
+      "name": "Projects",
       "fields": {
-        "required": [
-          "title"
-        ],
         "optional": [
           {
             "name": "techStack",
@@ -244,8 +239,13 @@
             "type": "text",
             "label": "Visibility"
           }
+        ],
+        "required": [
+          "title"
         ]
-      }
+      },
+      "mediaType": "link",
+      "description": "Web projects, code repositories, and digital work"
     }
   ]
 }

@@ -1,7 +1,6 @@
 [
   {
     "id": "0d8faadc-a228-47cb-a6a4-f078e39a4ee1",
-    "legacyId": "music_1770764811",
     "title": {
       "en": "I would have",
       "fr": "I would have",
@@ -22,11 +21,7 @@
       "ht": "Yon chanson d'amour",
       "mx": "Una canción de amor"
     },
-    "lyrics": {
-      "en": "",
-      "fr": "",
-      "ht": "",
-      "mx": ""
-    }
+    "gallery": [],
+    "visibility": "visible"
   }
 ]
