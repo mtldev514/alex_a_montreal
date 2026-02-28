@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "title": {
+      "en": "FUJIFILM X T5 7728x5152 000600",
+      "fr": "FUJIFILM X T5 7728x5152 000600",
+      "mx": "FUJIFILM X T5 7728x5152 000600",
+      "ht": "FUJIFILM X T5 7728x5152 000600"
+    },
+    "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1772322873/portfolio/photography/crtbzjpxhjcrtftvyypl.jpg",
+    "date": "2026-02-28",
+    "created": "2026-02-28",
+    "id": "2924ae8b-5bc2-4965-b5e5-93e6e5c4609d"
+  },
+  {
+    "title": {
+      "en": "DSCF0218",
+      "fr": "DSCF0218",
+      "mx": "DSCF0218",
+      "ht": "DSCF0218"
+    },
+    "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1772322874/portfolio/photography/turr5risuqegooagpdvh.jpg",
+    "date": "2026-02-28",
+    "created": "2026-02-28",
+    "id": "fe1deb7f-15ec-43ba-8e92-d0ce7d1a0e82"
+  },
+  {
+    "title": {
+      "en": "DSCF9928 20260209 2",
+      "fr": "DSCF9928 20260209 2",
+      "mx": "DSCF9928 20260209 2",
+      "ht": "DSCF9928 20260209 2"
+    },
+    "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1772322879/portfolio/painting/zhdimz3jrtyclmbswo5t.jpg",
+    "date": "2026-02-28",
+    "created": "2026-02-28",
+    "id": "3f742add-c606-4be9-a636-91862e70623c"
+  },
+  {
+    "title": {
+      "en": "PXL 20241127 173822496.MP",
+      "fr": "PXL 20241127 173822496.MP",
+      "mx": "PXL 20241127 173822496.MP",
+      "ht": "PXL 20241127 173822496.MP"
+    },
+    "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1772322881/portfolio/painting/huqzdjvzfd8issh427or.jpg",
+    "date": "2026-02-28",
+    "created": "2026-02-28",
+    "id": "1f7cc658-e3a6-418b-91c7-dd3f67c8c16d"
+  }
+]
