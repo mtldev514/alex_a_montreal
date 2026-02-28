@@ -8,11 +8,12 @@
     "dev": "retro-portfolio dev",
     "admin": "retro-portfolio admin",
     "sync": "retro-portfolio sync",
-    "start": "npm run build & npm run admin && npm run dev",
+    "start": "npm run build  && npm run dev && npm run admin",
     "deploy": "retro-portfolio deploy",
-    "validate": "retro-portfolio validate"
+    "validate": "retro-portfolio validate",
+    "update": "npm install @mtldev514/retro-portfolio-maker@latest"
   },
   "dependencies": {
-    "@mtldev514/retro-portfolio-maker": "^1.0.52"
+    "@mtldev514/retro-portfolio-maker": "^1.0.56"
   }
 }
