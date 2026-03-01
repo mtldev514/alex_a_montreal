@@ -314,15 +314,44 @@
   },
   {
     "title": {
-      "en": "PXL 20260225 153240818.RAW 01.MP.COVER",
+      "en": "Serotonin",
       "fr": "PXL 20260225 153240818.RAW 01.MP.COVER",
       "mx": "PXL 20260225 153240818.RAW 01.MP.COVER",
       "ht": "PXL 20260225 153240818.RAW 01.MP.COVER"
     },
     "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1772330047/portfolio/painting/wwficz7szexkxt1nuesg.jpg",
-    "date": "2026-03-01",
+    "date": {
+      "en": "2026-03-01",
+      "fr": "2026-03-01",
+      "mx": "2026-03-01",
+      "ht": "2026-03-01"
+    },
     "created": "2026-03-01",
-    "id": "a87b0f5a-5a4b-405f-92eb-8f9bb46f21ba"
+    "id": "a87b0f5a-5a4b-405f-92eb-8f9bb46f21ba",
+    "medium": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "dimensions": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "year": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "description": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    }
   },
   {
     "title": {
