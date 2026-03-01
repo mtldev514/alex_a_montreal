@@ -12,6 +12,7 @@
       ]
     },
     "drawing": {
+      "hoverZoom": false,
       "required": ["title", "url"],
       "optional": [
         { "name": "medium", "type": "text", "label": "Medium", "placeholder": "e.g., Pencil, Charcoal, Ink" },

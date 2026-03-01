@@ -23,6 +23,7 @@
       "icon": "✏️",
       "card": {
         "visual": "image",
+        "hoverZoom": false,
         "subtitle": { "field": "medium", "format": "parenthesized" }
       },
       "detail": {
