@@ -326,15 +326,38 @@
   },
   {
     "title": {
-      "en": "PXL 20240829 124041118",
+      "en": "Still waiting",
       "fr": "PXL 20240829 124041118",
       "mx": "PXL 20240829 124041118",
       "ht": "PXL 20240829 124041118"
     },
     "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1772330049/portfolio/drawing/u6n40yxulykjes3l78iy.jpg",
-    "date": "2026-03-01",
+    "date": {
+      "en": "2026-03-01",
+      "fr": "2026-03-01",
+      "mx": "2026-03-01",
+      "ht": "2026-03-01"
+    },
     "created": "2026-03-01",
-    "id": "2e858f50-efbc-41bb-9f39-2d706ad031c6"
+    "id": "2e858f50-efbc-41bb-9f39-2d706ad031c6",
+    "medium": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "dimensions": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "description": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    }
   },
   {
     "title": {
