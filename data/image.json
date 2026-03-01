@@ -25,15 +25,44 @@
   },
   {
     "title": {
-      "en": "DSCF9928 20260209 2",
+      "en": "Canapé vert",
       "fr": "DSCF9928 20260209 2",
       "mx": "DSCF9928 20260209 2",
       "ht": "DSCF9928 20260209 2"
     },
     "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1772322879/portfolio/painting/zhdimz3jrtyclmbswo5t.jpg",
-    "date": "2026-02-28",
+    "date": {
+      "en": "2026-02-28",
+      "fr": "2026-02-28",
+      "mx": "2026-02-28",
+      "ht": "2026-02-28"
+    },
     "created": "2026-02-28",
-    "id": "3f742add-c606-4be9-a636-91862e70623c"
+    "id": "3f742add-c606-4be9-a636-91862e70623c",
+    "medium": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "dimensions": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "year": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "description": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    }
   },
   {
     "title": {
