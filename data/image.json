@@ -687,5 +687,29 @@
     "date": "2026-03-01",
     "created": "2026-03-01",
     "id": "eebdc64c-94d5-49eb-ab30-6069340e4dfd"
+  },
+  {
+    "title": {
+      "en": "DSCF0123 2",
+      "fr": "DSCF0123 2",
+      "mx": "DSCF0123 2",
+      "ht": "DSCF0123 2"
+    },
+    "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1772336025/portfolio/photography/ltxelpm3voj3i6etfvot.jpg",
+    "date": "2026-03-01",
+    "created": "2026-03-01",
+    "id": "100a2202-7a57-4699-be4c-eee86d2c3ce2"
+  },
+  {
+    "title": {
+      "en": "DSCF0224",
+      "fr": "DSCF0224",
+      "mx": "DSCF0224",
+      "ht": "DSCF0224"
+    },
+    "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1772336026/portfolio/photography/pf7pyjhqjen0n8bajftb.jpg",
+    "date": "2026-03-01",
+    "created": "2026-03-01",
+    "id": "ebfd21df-6a71-4f03-9da4-f97881d7846c"
   }
 ]
