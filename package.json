@@ -14,6 +14,6 @@
     "update": "npm install @mtldev514/retro-portfolio-maker@latest"
   },
   "dependencies": {
-    "@mtldev514/retro-portfolio-maker": "^1.1.11"
+    "@mtldev514/retro-portfolio-maker": "^1.1.12"
   }
 }
