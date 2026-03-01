@@ -42,15 +42,44 @@
   },
   {
     "title": {
-      "en": "DSCF0218",
+      "en": "Branches",
       "fr": "DSCF0218",
       "mx": "DSCF0218",
       "ht": "DSCF0218"
     },
     "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1772322874/portfolio/photography/turr5risuqegooagpdvh.jpg",
-    "date": "2026-02-28",
+    "date": {
+      "en": "2026-02-28",
+      "fr": "2026-02-28",
+      "mx": "2026-02-28",
+      "ht": "2026-02-28"
+    },
     "created": "2026-02-28",
-    "id": "fe1deb7f-15ec-43ba-8e92-d0ce7d1a0e82"
+    "id": "fe1deb7f-15ec-43ba-8e92-d0ce7d1a0e82",
+    "camera": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "lens": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "settings": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "description": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    }
   },
   {
     "title": {
