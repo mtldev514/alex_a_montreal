@@ -1,11 +1,12 @@
 {
+  "view": "modern",
   "api": {
     "host": "127.0.0.1",
     "port": 5001,
     "baseUrl": "http://127.0.0.1:5001"
   },
   "app": {
-    "name": "Alex's Portfolio",
+    "name": "alex a montreal",
     "version": "1.0",
     "adminTitle": "ALEX'S PORTFOLIO MANAGER V1.0"
   },
