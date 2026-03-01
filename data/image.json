@@ -431,14 +431,37 @@
   },
   {
     "title": {
-      "en": "PXL 20250306 222046196",
+      "en": "Possibilities",
       "fr": "PXL 20250306 222046196",
       "mx": "PXL 20250306 222046196",
       "ht": "PXL 20250306 222046196"
     },
     "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1772330052/portfolio/drawing/jgzfhc9inbaqxxjtlvuk.jpg",
-    "date": "2026-03-01",
+    "date": {
+      "en": "2026-03-01",
+      "fr": "2026-03-01",
+      "mx": "2026-03-01",
+      "ht": "2026-03-01"
+    },
     "created": "2026-03-01",
-    "id": "1d6b4347-4661-44f8-bf1e-190b671fa5db"
+    "id": "1d6b4347-4661-44f8-bf1e-190b671fa5db",
+    "medium": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "dimensions": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "description": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    }
   }
 ]
