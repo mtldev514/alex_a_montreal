@@ -206,15 +206,44 @@
   },
   {
     "title": {
-      "en": "DSCF0244",
+      "en": "Winter",
       "fr": "DSCF0244",
       "mx": "DSCF0244",
       "ht": "DSCF0244"
     },
     "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1772329101/portfolio/photography/gttqokxkhzsrfqq0vu2z.jpg",
-    "date": "2026-03-01",
+    "date": {
+      "en": "2026-03-01",
+      "fr": "2026-03-01",
+      "mx": "2026-03-01",
+      "ht": "2026-03-01"
+    },
     "created": "2026-03-01",
-    "id": "cf883284-1e5e-4f76-a96b-b5df66ae5bba"
+    "id": "cf883284-1e5e-4f76-a96b-b5df66ae5bba",
+    "camera": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "lens": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "settings": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "description": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    }
   },
   {
     "title": {
