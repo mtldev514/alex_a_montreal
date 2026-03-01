@@ -162,5 +162,65 @@
       "mx": "",
       "ht": ""
     }
+  },
+  {
+    "title": {
+      "en": "DSCF0234",
+      "fr": "DSCF0234",
+      "mx": "DSCF0234",
+      "ht": "DSCF0234"
+    },
+    "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1772329099/portfolio/photography/cri1nyqgw8slgvgh57k1.jpg",
+    "date": "2026-03-01",
+    "created": "2026-03-01",
+    "id": "99cd2938-687b-4243-a506-b267e64e1f2a"
+  },
+  {
+    "title": {
+      "en": "DSCF0244",
+      "fr": "DSCF0244",
+      "mx": "DSCF0244",
+      "ht": "DSCF0244"
+    },
+    "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1772329101/portfolio/photography/gttqokxkhzsrfqq0vu2z.jpg",
+    "date": "2026-03-01",
+    "created": "2026-03-01",
+    "id": "cf883284-1e5e-4f76-a96b-b5df66ae5bba"
+  },
+  {
+    "title": {
+      "en": "DSCF0396",
+      "fr": "DSCF0396",
+      "mx": "DSCF0396",
+      "ht": "DSCF0396"
+    },
+    "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1772329102/portfolio/photography/yefxm5gaqkab2seunrtf.jpg",
+    "date": "2026-03-01",
+    "created": "2026-03-01",
+    "id": "5a0ae21d-2d04-4370-be8f-30df4613532b"
+  },
+  {
+    "title": {
+      "en": "DSCF0402",
+      "fr": "DSCF0402",
+      "mx": "DSCF0402",
+      "ht": "DSCF0402"
+    },
+    "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1772329102/portfolio/photography/nhn6083rjssr44ydb2j1.jpg",
+    "date": "2026-03-01",
+    "created": "2026-03-01",
+    "id": "fb829e7c-be3d-4a9e-bcde-8fe7dc44a6eb"
+  },
+  {
+    "title": {
+      "en": "DSCF0412",
+      "fr": "DSCF0412",
+      "mx": "DSCF0412",
+      "ht": "DSCF0412"
+    },
+    "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1772329103/portfolio/photography/g36tpdigsezl5bznewsn.jpg",
+    "date": "2026-03-01",
+    "created": "2026-03-01",
+    "id": "048f9de9-74a7-4e7a-8084-b9457b7985a2"
   }
 ]
