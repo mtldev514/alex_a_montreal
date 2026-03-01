@@ -455,38 +455,13 @@
       "ht": "PXL 20251031 163523241.MP"
     },
     "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1772330046/portfolio/painting/hmn2hxmmoqodo0m7g7pp.jpg",
-    "date": {
-      "en": "2026-03-01",
-      "fr": "2026-03-01",
-      "mx": "2026-03-01",
-      "ht": "2026-03-01"
-    },
+    "date": "2026-03-01",
     "created": "2026-03-01",
     "id": "0a3b3b9a-4af6-4bec-ba75-a309fa06f0b9",
-    "medium": {
-      "en": "",
-      "fr": "",
-      "mx": "",
-      "ht": ""
-    },
-    "dimensions": {
-      "en": "",
-      "fr": "",
-      "mx": "",
-      "ht": ""
-    },
-    "year": {
-      "en": "",
-      "fr": "",
-      "mx": "",
-      "ht": ""
-    },
-    "description": {
-      "en": "",
-      "fr": "",
-      "mx": "",
-      "ht": ""
-    }
+    "medium": "",
+    "dimensions": "",
+    "year": "",
+    "description": ""
   },
   {
     "title": {
