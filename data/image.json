@@ -1,15 +1,44 @@
 [
   {
     "title": {
-      "en": "FUJIFILM X T5 7728x5152 000600",
+      "en": "Saint André",
       "fr": "FUJIFILM X T5 7728x5152 000600",
       "mx": "FUJIFILM X T5 7728x5152 000600",
       "ht": "FUJIFILM X T5 7728x5152 000600"
     },
     "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1772322873/portfolio/photography/crtbzjpxhjcrtftvyypl.jpg",
-    "date": "2026-02-28",
+    "date": {
+      "en": "2026-02-28",
+      "fr": "2026-02-28",
+      "mx": "2026-02-28",
+      "ht": "2026-02-28"
+    },
     "created": "2026-02-28",
-    "id": "2924ae8b-5bc2-4965-b5e5-93e6e5c4609d"
+    "id": "2924ae8b-5bc2-4965-b5e5-93e6e5c4609d",
+    "camera": {
+      "en": " X T5",
+      "fr": " X T5",
+      "mx": " X T5",
+      "ht": " X T5"
+    },
+    "lens": {
+      "en": "35mm",
+      "fr": "35mm",
+      "mx": "35mm",
+      "ht": "35mm"
+    },
+    "settings": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "description": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    }
   },
   {
     "title": {
