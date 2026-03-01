@@ -66,14 +66,43 @@
   },
   {
     "title": {
-      "en": "PXL 20241127 173822496.MP",
+      "en": "Faces",
       "fr": "PXL 20241127 173822496.MP",
       "mx": "PXL 20241127 173822496.MP",
       "ht": "PXL 20241127 173822496.MP"
     },
     "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1772322881/portfolio/painting/huqzdjvzfd8issh427or.jpg",
-    "date": "2026-02-28",
+    "date": {
+      "en": "2026-02-28",
+      "fr": "2026-02-28",
+      "mx": "2026-02-28",
+      "ht": "2026-02-28"
+    },
     "created": "2026-02-28",
-    "id": "1f7cc658-e3a6-418b-91c7-dd3f67c8c16d"
+    "id": "1f7cc658-e3a6-418b-91c7-dd3f67c8c16d",
+    "medium": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "dimensions": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "year": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "description": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    }
   }
 ]
