@@ -1,33 +1,5 @@
 [
   {
-    "id": "a4c418d9-ad1d-4a81-a237-4c04adf2b336",
-    "title": "moody",
-    "url": "https://github.com/mtldev514/moodyWebApp",
-    "date": "2019-01-01",
-    "description": {
-      "en": "Web archaeology. Mood tracking by demographics (age/gender). Angular frontend hitting a REST API (likely wrapping legacy SOAP/Java).",
-      "fr": "Tracking d'humeur Angular. Analyse les tendances par segments démographiques (âge/genre). Utilise une façade REST pour consommer des données provenant d'un backend SOAP/Java legacy.",
-      "ht": "Yon ansyen pwojè. Mwen te konn swiv imè moun selon laj ak sèks yo. Frontend lan fèt an Angular, li pale ak yon API REST (ki sanble kache yon vye sistèm Java).",
-      "mx": "Arqueología web. Rastreo de humor por demografía. Frontend Angular consumiendo API REST (probablemente envolviendo SOAP/Java legado)."
-    },
-    "gallery": [],
-    "visibility": "private"
-  },
-  {
-    "id": "e46fe595-84db-4434-bd2f-e86242214352",
-    "title": "tdiar",
-    "url": "https://github.com/mtldev514/tdiar",
-    "date": "2026-02-10",
-    "description": {
-      "en": "Discipline factory. Full-stack Angular/NestJS. Manages frequencies, streaks, and completion states to engineer structure against chaos.",
-      "fr": "Tracker de récurrence Angular/NestJS. Système de suivi d'habitude pour calculer les états de complétion et transformer des habitudes répétitives en données structurées.",
-      "ht": "Yon machin pou disiplin. Tout bagay fèt an Angular ak NestJS. Li jere frekans, seri siksè, ak eta fini pou mete lòd nan dezòd.",
-      "mx": "Fábrica de disciplina. Full-stack Angular/NestJS. Gestiona frecuencias, rachas y estados de finalización para estructurar el caos."
-    },
-    "gallery": [],
-    "visibility": "private"
-  },
-  {
     "id": "cd2ab659-cf9e-4103-9766-b3d457ab7ff4",
     "title": "carabiner",
     "url": "https://github.com/mtldev514/carabiner",
@@ -41,20 +13,6 @@
     "gallery": [],
     "visibility": "public",
     "website": "https://carabiner.gay/fr"
-  },
-  {
-    "id": "8eb8c5ae-abc3-434c-ae19-b10826610aae",
-    "title": "masked",
-    "url": "https://github.com/mtldev514/masked",
-    "date": "2026-02-10",
-    "description": {
-      "en": "Identity swapping game. Core logic uses a while-loop and lodash.shuffle to ensure no player gets their own name. Angular + Firebase.",
-      "fr": "Échange d'identités Firebase/Angular. Joue avec tes amis. Vos identités sont mélangées et vous devez deviner qui se cache derrière qui. Système de jeu asynchrone en temps réel.",
-      "ht": "Jwèt kote nou chanje non. Mwen itilize yon bouk while ak lodash.shuffle pou asire pèsonn pa jwenn pwòp non pa yo. Fèt ak Angular + Firebase.",
-      "mx": "Juego de intercambio de identidades. Lógica central usa while-loop y lodash.shuffle para asegurar que nadie reciba su propio nombre. Angular + Firebase."
-    },
-    "gallery": [],
-    "visibility": "private"
   },
   {
     "id": "5499ce89-a453-49e6-9d13-c5fac1a9ba00",
