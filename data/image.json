@@ -165,15 +165,44 @@
   },
   {
     "title": {
-      "en": "DSCF0234",
+      "en": "Orange Cone",
       "fr": "DSCF0234",
       "mx": "DSCF0234",
       "ht": "DSCF0234"
     },
     "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1772329099/portfolio/photography/cri1nyqgw8slgvgh57k1.jpg",
-    "date": "2026-03-01",
+    "date": {
+      "en": "2026-03-01",
+      "fr": "2026-03-01",
+      "mx": "2026-03-01",
+      "ht": "2026-03-01"
+    },
     "created": "2026-03-01",
-    "id": "99cd2938-687b-4243-a506-b267e64e1f2a"
+    "id": "99cd2938-687b-4243-a506-b267e64e1f2a",
+    "camera": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "lens": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "settings": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "description": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    }
   },
   {
     "title": {
