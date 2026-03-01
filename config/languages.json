@@ -4,22 +4,22 @@
     {
       "code": "en",
       "flag": "🇬🇧🇨🇦",
-      "name": "English"
+      "name": "en"
     },
     {
       "code": "fr",
       "flag": "⚜️🇨🇦",
-      "name": "Français"
+      "name": "fr"
     },
     {
       "code": "mx",
       "flag": "🇲🇽",
-      "name": "Español"
+      "name": "mx"
     },
     {
       "code": "ht",
       "flag": "🇭🇹",
-      "name": "Kreyòl Ayisyen"
+      "name": "ht"
     }
   ]
 }
