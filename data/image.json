@@ -338,15 +338,44 @@
   },
   {
     "title": {
-      "en": "PXL 20250124 053901218.MP",
+      "en": "Portrait",
       "fr": "PXL 20250124 053901218.MP",
       "mx": "PXL 20250124 053901218.MP",
       "ht": "PXL 20250124 053901218.MP"
     },
     "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1772330050/portfolio/painting/pj9fzgluncr6iw3gqe0s.jpg",
-    "date": "2026-03-01",
+    "date": {
+      "en": "2026-03-01",
+      "fr": "2026-03-01",
+      "mx": "2026-03-01",
+      "ht": "2026-03-01"
+    },
     "created": "2026-03-01",
-    "id": "85e00dac-dffe-4cb8-b435-dfe50f18518d"
+    "id": "85e00dac-dffe-4cb8-b435-dfe50f18518d",
+    "medium": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "dimensions": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "year": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "description": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    }
   },
   {
     "title": {
