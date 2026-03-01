@@ -324,15 +324,44 @@
   },
   {
     "title": {
-      "en": "PXL 20241207 233739216",
+      "en": "I break in sharp pieces",
       "fr": "PXL 20241207 233739216",
       "mx": "PXL 20241207 233739216",
       "ht": "PXL 20241207 233739216"
     },
-    "url": "https://res.cloudinary.com/dug75wesj/image/upload/v1772330041/portfolio/sculpting/mmkpe8ijw4frqkpc5tum.jpg",
+    "url": {
+      "en": "https://res.cloudinary.com/dug75wesj/image/upload/v1772330041/portfolio/sculpting/mmkpe8ijw4frqkpc5tum.jpg",
+      "fr": "https://res.cloudinary.com/dug75wesj/image/upload/v1772330041/portfolio/sculpting/mmkpe8ijw4frqkpc5tum.jpg",
+      "mx": "https://res.cloudinary.com/dug75wesj/image/upload/v1772330041/portfolio/sculpting/mmkpe8ijw4frqkpc5tum.jpg",
+      "ht": "https://res.cloudinary.com/dug75wesj/image/upload/v1772330041/portfolio/sculpting/mmkpe8ijw4frqkpc5tum.jpg"
+    },
     "date": "2026-03-01",
     "created": "2026-03-01",
-    "id": "f9c11c58-e2f3-4dd1-b263-45a0f9bd053b"
+    "id": "f9c11c58-e2f3-4dd1-b263-45a0f9bd053b",
+    "material": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "dimensions": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "weight": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    },
+    "description": {
+      "en": "",
+      "fr": "",
+      "mx": "",
+      "ht": ""
+    }
   },
   {
     "title": {
