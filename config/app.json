@@ -1,9 +1,12 @@
 {
-  "view": "modern",
+  "view": "blueprint",
   "api": {
     "host": "127.0.0.1",
-    "port": 5001,
-    "baseUrl": "http://127.0.0.1:5001"
+    "port": 5002,
+    "baseUrl": "http://127.0.0.1:5002"
+  },
+    "viewSwitcher": {
+    "enabled": true
   },
   "app": {
     "name": "alex a montreal",

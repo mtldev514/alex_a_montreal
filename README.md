@@ -14,13 +14,14 @@ npm install
 
 # 3. Launch site + admin together
 npm start
-# Site:  http://localhost:8000
-# Admin: http://localhost:8000/admin.html
-# API:   http://localhost:5001/api/
+# Site:  http://localhost:3000
+# Admin: http://localhost:3000/admin.html
+# API:   http://localhost:5002/api/
 
-# Or launch separately:
-npm run dev      # site only (port 8000)
 npm run admin    # admin API only (port 5001)
+# Or launch separately:
+npm run dev      # site only (port 3000)
+npm run admin    # admin API only (port 5002)
 ```
 
 ## Project Structure
@@ -45,8 +46,8 @@ assets/           Your images and media
 | Command | Description |
 |---------|-------------|
 | `npm start` | Launch site + admin together |
-| `npm run dev` | Dev server only (port 8000) |
-| `npm run admin` | Admin API only (port 5001) |
+| `npm run dev` | Dev server only (port 3000) |
+| `npm run admin` | Admin API only (port 5002) |
 | `npm run build` | Build static site to `dist/` |
 | `npm run sync` | Update templates from latest engine version |
 | `npm run validate` | Check config and data files for errors |
