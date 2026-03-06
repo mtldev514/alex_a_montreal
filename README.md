@@ -12,16 +12,15 @@ npm install
 # Edit .env and add your Cloudinary credentials
 # Get them at: https://cloudinary.com/console
 
-# 3. Launch site + admin together
+# 3. Launch the dev server
 npm start
-# Site:  http://localhost:3000
-# Admin: http://localhost:3000/admin.html
-# API:   http://localhost:5002/api/
+# Site: http://localhost:3000
 
-npm run admin    # admin API only (port 5001)
-# Or launch separately:
+# To use the admin panel, run the admin API in a separate terminal:
+npm run admin    # admin API (port 5001). Then open http://localhost:3000/admin.html
+# Or run dev and admin separately:
 npm run dev      # site only (port 3000)
-npm run admin    # admin API only (port 5002)
+npm run admin    # admin API only (port 5001)
 ```
 
 ## Project Structure

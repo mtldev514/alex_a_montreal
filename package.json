@@ -8,7 +8,7 @@
     "dev": "npm run build  && retro-portfolio dev --port 3000",
     "admin": "retro-portfolio admin",
     "sync": "retro-portfolio sync",
-    "start": "npm run build  && npm run dev && npm run admin",
+    "start": "npm run build  && npm run dev",
     "deploy": "retro-portfolio deploy",
     "validate": "retro-portfolio validate",
     "update": "npm install @mtldev514/retro-portfolio-maker@latest"
