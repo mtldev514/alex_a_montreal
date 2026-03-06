@@ -36,6 +36,12 @@ jobs:
       - name: 🏗️ Build site
         run: npm run build -- --production
 
+      - name: 📤 Sync data to Supabase
+        run: npm run sync-supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
+
       - name: 📊 Build summary
         run: |
           echo "### 🎨 Build Complete" >> $GITHUB_STEP_SUMMARY

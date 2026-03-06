@@ -8,6 +8,7 @@
     "dev": "npm run build  && retro-portfolio dev --port 3000",
     "admin": "retro-portfolio admin",
     "sync": "retro-portfolio sync",
+    "sync-supabase": "retro-portfolio sync-supabase",
     "start": "npm run build  && npm run dev",
     "deploy": "retro-portfolio deploy",
     "validate": "retro-portfolio validate",
