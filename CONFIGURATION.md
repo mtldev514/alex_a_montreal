@@ -537,7 +537,7 @@ GITHUB_TOKEN=your_github_token_here
 | `retro-portfolio ports` | — | List active localhost ports |
 | `retro-portfolio kill <port>` | — | Kill process on a port |
 
-**Combined launch:** `npm start` runs both `dev` and `admin` together.
+**Dev server only:** `npm start` runs build and the dev server. Run `npm run admin` in a separate terminal to start the admin API when you need the admin panel.
 
 ### Command Options
 

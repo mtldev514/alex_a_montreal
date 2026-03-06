@@ -36,5 +36,9 @@
   },
   "pagination": {
     "pageSize": 24
+  },
+  "profile": {
+    "avatar": "https://github.com/mtldev514.png",
+    "banner": ""
   }
 }
