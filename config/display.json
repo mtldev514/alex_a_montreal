@@ -93,6 +93,25 @@
         ]
       }
     },
+    "blog": {
+      "icon": "📓",
+      "card": {
+        "visual": "icon",
+        "subtitle": { "field": "description" }
+      },
+      "detail": {
+        "hero": "none",
+        "meta": [
+          { "field": "tags", "icon": "🏷️", "labelKey": "detail_tags" },
+          { "field": "created", "icon": "📅", "labelKey": "gallery_created_on" },
+          { "field": "date", "icon": "📁", "labelKey": "gallery_added_on" }
+        ],
+        "sections": [
+          { "field": "body", "renderer": "markdown", "labelKey": "detail_content" },
+          { "field": "description", "renderer": "text-block", "labelKey": "detail_description" }
+        ]
+      }
+    },
     "projects": {
       "icon": "💻",
       "card": {

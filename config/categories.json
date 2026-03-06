@@ -201,6 +201,36 @@
       "description": "Musical compositions and recordings"
     },
     {
+      "id": "blog",
+      "icon": "📓",
+      "name": "Blog",
+      "fields": {
+        "optional": [
+          {
+            "name": "tags",
+            "type": "text",
+            "label": "Tags",
+            "placeholder": "e.g., devops, patterns, process"
+          },
+          {
+            "name": "description",
+            "type": "textarea",
+            "label": "Description"
+          },
+          {
+            "name": "date",
+            "type": "text",
+            "label": "Date"
+          }
+        ],
+        "required": [
+          "title"
+        ]
+      },
+      "mediaType": "text",
+      "description": "Journal de développement — notes, réflexions, processus"
+    },
+    {
       "id": "projects",
       "icon": "💻",
       "name": "Projects",

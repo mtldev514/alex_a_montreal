@@ -50,6 +50,15 @@
         { "name": "description", "type": "textarea", "label": "Description" }
       ]
     },
+    "blog": {
+      "required": ["title"],
+      "optional": [
+        { "name": "tags", "type": "text", "label": "Tags", "placeholder": "e.g., devops, patterns, process" },
+        { "name": "description", "type": "textarea", "label": "Description" },
+        { "name": "body", "type": "textarea", "label": "Body (Markdown)" },
+        { "name": "date", "type": "text", "label": "Date" }
+      ]
+    },
     "projects": {
       "required": ["title"],
       "optional": [
