@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build": "retro-portfolio build",
-    "postbuild": "cp config-source.json dist/ && cp CNAME dist/ 2>/dev/null || true",
+    "postbuild": "cp config-source.json dist/ && cp CNAME dist/ 2>/dev/null || true && find dist -name index.html -exec grep -L 'markdown.js' {} \\; | xargs -I{} sed -i '' 's|<script src=\"js/router.js\" defer></script>|<script src=\"js/router.js\" defer></script>\\n    <script src=\"js/markdown.js\" defer></script>|' {}",
     "dev": "npm run build  && retro-portfolio dev --port 3000",
     "admin": "retro-portfolio admin",
     "sync": "retro-portfolio sync",
