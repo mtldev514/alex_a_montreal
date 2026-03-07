@@ -12,14 +12,14 @@ npm install
 # Edit .env and add your Cloudinary credentials
 # Get them at: https://cloudinary.com/console
 
-# 3. Launch the dev server
+# 3. Launch site + admin together
 npm start
-# Site: http://localhost:3000
+# Site:  http://localhost:8000
+# Admin: http://localhost:8000/admin.html
+# API:   http://localhost:5001/api/
 
-# To use the admin panel, run the admin API in a separate terminal:
-npm run admin    # admin API (port 5001). Then open http://localhost:3000/admin.html
-# Or run dev and admin separately:
-npm run dev      # site only (port 3000)
+# Or launch separately:
+npm run dev      # site only (port 8000)
 npm run admin    # admin API only (port 5001)
 ```
 
@@ -44,9 +44,9 @@ assets/           Your images and media
 
 | Command | Description |
 |---------|-------------|
-| `npm start` | Build and launch dev server (port 3000) |
-| `npm run dev` | Dev server only (port 3000) |
-| `npm run admin` | Admin API only (port 5001) — run in a separate terminal to use the admin panel |
+| `npm start` | Launch site + admin together |
+| `npm run dev` | Dev server only (port 8000) |
+| `npm run admin` | Admin API only (port 5001) |
 | `npm run build` | Build static site to `dist/` |
 | `npm run sync` | Update templates from latest engine version |
 | `npm run validate` | Check config and data files for errors |
@@ -65,7 +65,7 @@ Sign up at [cloudinary.com](https://cloudinary.com) (free tier available). Optio
 
 ## Adding Content
 
-**Via admin panel (recommended):** Run `npm start` in one terminal and `npm run admin` in another, then open http://localhost:3000/admin.html
+**Via admin panel (recommended):** Run `npm start`, open http://localhost:8000/admin.html
 
 **Via JSON:** Edit data files directly in `data/` (see CONFIGURATION.md for format)
 
