@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "blog-patterns-jour-1",
+    "title": { "en": "Patterns — Day 1", "fr": "Patterns — Jour 1" },
+    "description": { "en": "Bootstrapping Patterns, a budget tracking tool. Two PRs, two philosophies.", "fr": "Bootstrap de Patterns, un outil de suivi budg\u00e9taire. Deux PRs, deux philosophies." },
+    "body": "blog/2026-03-06-patterns-jour-1.md",
+    "date": "2026-03-06",
+    "created": "2026-03-06"
+  },
+  {
+    "id": "blog-patterns-pipeline",
+    "title": { "en": "Patterns — Unified Pipeline", "fr": "Patterns — Pipeline unifi\u00e9" },
+    "description": { "en": "Merging CI and deploy into a single workflow with preview support.", "fr": "Fusion du CI et du deploy en un seul workflow avec support preview." },
+    "body": "blog/2026-03-07-patterns-pipeline.md",
+    "date": "2026-03-07",
+    "created": "2026-03-07"
+  }
+]
