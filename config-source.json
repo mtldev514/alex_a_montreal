@@ -4,10 +4,5 @@
     "configDir": "config",
     "dataDir": "data",
     "langDir": "lang"
-  },  
-  "supabase": {
-    "url": "https://smddcxeqpejmchxorjqt.supabase.co",
-    "publishableKey": "sb_publishable_SmXJ31VljYAQPWrkDaUrWw_K3x1fw67"
   }
-
 }
